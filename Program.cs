@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            List<Animal> animals = new List<Animal>();
+            List<Animal> animals = new List<Animal>(); 
 
             Lion lion = new Lion("Simba", 5, true);
             Elephant elephant = new Elephant("Dumbo", 10, true);
